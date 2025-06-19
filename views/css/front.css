@@ -1,0 +1,45 @@
+.easypost-tracking {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.easypost-tracking .panel {
+    margin-bottom: 30px;
+}
+
+.easypost-tracking-info {
+    margin-top: 20px;
+    padding: 15px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+}
+/* Shipping methods */
+.easypost-rates-container {
+    margin: 15px 0;
+}
+
+.delivery-option {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    background: #f9f9f9;
+}
+
+.delivery-option:hover {
+    background: #f0f0f0;
+}
+
+.delivery-option input[type="radio"] {
+    margin-top: 8px;
+}
+
+/* Order confirmation */
+.easypost-tracking {
+    margin-top: 20px;
+    padding: 15px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}

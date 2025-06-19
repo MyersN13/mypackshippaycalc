@@ -1,0 +1,9 @@
+Your RMA has been created
+
+Order Reference: {order_name}
+RMA Number: {rma_number}
+
+Please use the following label for your return:
+{label_url}
+
+Return Instructions: Please pack your items securely and attach the return label to the package.
