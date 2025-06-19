@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-  <name>easypostshipping</name>
-  <displayName><![CDATA[EasyPost Shipping]]></displayName>
+  <name>mypackshippaycalc</name>
+  <displayName><![CDATA[mypackshippaycalc]]></displayName>
   <version>1.0.0</version>
   <description><![CDATA[Live shipping rates and label generation via EasyPost API]]></description>
-  <author><![CDATA[Your Name]]></author>
+  <author><![CDATA[MyersN13]]></author>
   <tab><![CDATA[shipping_logistics]]></tab>
   <is_configurable>1</is_configurable>
   <need_instance>1</need_instance>
